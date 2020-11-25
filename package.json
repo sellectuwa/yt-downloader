@@ -1,0 +1,20 @@
+{
+  "name": "yt-downloader",
+  "version": "1.0.0",
+  "description": "Youtube videos downloading app.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/sellectuwa/yt-downloader",
+  "author": "sellectuwa",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10",
+    "ytdl-core": "^4.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.0"
+  }
+}
